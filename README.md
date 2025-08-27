@@ -1,2 +1,1 @@
-# Arquitectura_limpia
-Proyecto base de .Net para arquitectura limpia
+“Armé una API en .NET 8 con arquitectura limpia: capa de dominio con la entidad User, capa de aplicación con DTOs, interfaces y lógica de negocio, infraestructura con EF Core y repositorio, y la API con controladores. Expuse un CRUD de usuarios, validando duplicados, usando FluentValidation y guardando contraseñas como hash. Las migraciones crearon la tabla Users en SQL Server y pude probar todo con Swagger.”
